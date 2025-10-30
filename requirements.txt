@@ -1,0 +1,5 @@
+pip install Flask>=1.0.0
+pip install nltk
+pip install chatterbot>=1.0.0
+pip install chatterbot-corpus>=1.2.0
+pip install SQLAlchemy>=1.2
